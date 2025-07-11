@@ -19,11 +19,20 @@ Fonts, symbols, layout tools & more — fast, free, aesthetic.
 
 > A growing collection of fast, free & aesthetic tools for online creators.
 
-- 🌀 Font Generator (unicode magic)
-- ✴️ Symbol Explorer
-- 🎨 Coming soon: Color tools & layout helpers
+- 🌀 [Font Generator](https://vibeberry.io/text/font-generator) – Unicode magic for stylish text  
+- ✴️ [Symbol Explorer](https://vibeberry.io/text/symbols) – A searchable collection of unique symbols  
+- 🎨 Color Tools  
+  - [🎨 Color Picker](https://vibeberry.io/color/color-picker) – Pick any color with ease  
+  - [🌈 Color Wheel](https://vibeberry.io/color/color-wheel) – Explore hues, tones & harmony  
+  - [🔢 Color Codes Converter](https://vibeberry.io/color/color-codes-converter) – Convert between HEX, RGB, HSL
 
 No logins. No chaos. Just vibe.
+
+---
+
+### 📝 Blog
+
+- [Read the VibeBerry Blog](https://vibeberry.io/blog) – Tips, updates & internet aesthetics
 
 ---
 
